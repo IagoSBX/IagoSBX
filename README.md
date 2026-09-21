@@ -47,13 +47,6 @@
 | [**yaggo**](https://github.com/IagoSBX/yaggo) | App mobile em Flutter do sistema de delivery Yag-go Burgers | Flutter · Dart · Provider |
 | [**ativ-lilia**](https://github.com/IagoSBX/ativ-lilia) | Front-end React de um app de delivery multi-perfil (cliente, loja, admin) | React · Vite |
 
-## 📊 Estatísticas
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=IagoSBX&show_icons=true&theme=dark&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IagoSBX&layout=compact&theme=dark&hide_border=true" />
-</p>
-
 ## 📫 Contato
 
 [![GitHub](https://img.shields.io/badge/GitHub-IagoSBX-181717?style=for-the-badge&logo=github)](https://github.com/IagoSBX)

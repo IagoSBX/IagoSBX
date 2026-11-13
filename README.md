@@ -1,7 +1,7 @@
-<h1 align="center">Olá, eu sou o Iago 👋</h1>
+<h1 align="center">Olá, eu sou o Iago</h1>
 
 <p align="center">
-  Desenvolvedor <b>Full Stack</b> construindo aplicações completas — do banco de dados à interface, passando por back-end, front-end e mobile.
+  Desenvolvedor full stack. Trabalho com back-end em Java e Node.js, front-end em React e apps mobile em Flutter.
 </p>
 
 <p align="center">
@@ -13,7 +13,7 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
-## 🧱 Tecnologias que uso
+## Tecnologias
 
 **Front-end**
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -32,21 +32,22 @@
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 
-**Banco de dados & Infra**
+**Banco de dados e infraestrutura**
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
-## 🚀 Projetos em destaque
+## Projetos em destaque
 
 | Projeto | Descrição | Stack |
 |---|---|---|
-| [**psiclinic-api**](https://github.com/IagoSBX/psiclinic-api) | API REST para gerenciamento de uma clínica de psicologia (pacientes, psicólogos e sessões) | Java · Spring Boot · Docker |
-| [**yaggo-web**](https://github.com/IagoSBX/yaggo-web) | Sistema de delivery full stack, com back-end Node.js/MySQL e app mobile | Node.js · Express · MySQL · Flutter |
-| [**yaggo**](https://github.com/IagoSBX/yaggo) | App mobile em Flutter do sistema de delivery Yag-go Burgers | Flutter · Dart · Provider |
-| [**ativ-lilia**](https://github.com/IagoSBX/ativ-lilia) | Front-end React de um app de delivery multi-perfil (cliente, loja, admin) | React · Vite |
+| [**LAIVY**](https://github.com/IagoSBX/laivy_Ds) | Sistema de gestão para times de basquete, com prancheta de jogadas animada e assistente de IA. TCC da ETEC, feito em grupo | Java · Spring Boot · React · MySQL · Docker · n8n |
+| [**psiclinic-api**](https://github.com/IagoSBX/psiclinic-api) | API REST para uma clínica de psicologia: pacientes, psicólogos e sessões | Java · Spring Boot · Docker |
+| [**yaggo-web**](https://github.com/IagoSBX/yaggo-web) | Sistema de delivery com back-end em Node.js e MySQL e app mobile | Node.js · Express · MySQL · Flutter |
+| [**yaggo**](https://github.com/IagoSBX/yaggo) | App em Flutter do delivery Yag-go Burgers | Flutter · Dart · Provider |
+| [**ativ-lilia**](https://github.com/IagoSBX/ativ-lilia) | Front-end em React de um app de delivery com perfis de cliente, loja e admin | React · Vite |
 
-## 📫 Contato
+## Contato
 
 [![GitHub](https://img.shields.io/badge/GitHub-IagoSBX-181717?style=for-the-badge&logo=github)](https://github.com/IagoSBX)
